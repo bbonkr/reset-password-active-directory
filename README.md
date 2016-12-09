@@ -20,3 +20,4 @@
 8. Change 버튼을 클릭합니다. 
 
 > * Active Directory 관리자 계정 정보 <small>계정이름, 비밀번호</small>가 필요합니다.
+> * .NET Framework 4.0이 필요합니다.
