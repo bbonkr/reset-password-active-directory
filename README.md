@@ -1,4 +1,5 @@
-# reset-password-active-directory
+Reset active directory user's password 
+======================================
 
 **Active Directory 사용자의 비밀번호를 변경**하는 **응용 프로그램**입니다.
 
